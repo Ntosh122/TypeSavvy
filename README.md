@@ -1,26 +1,29 @@
-# Animated Landing Website
+# TypeSavvy-landing-page
+A TypeSavvy-landing-page built with Next14, Shadcn, and Tailwind & Framer Motion
 
 ## Getting Started
 
 This is fully animated and responsive landing webpage made with nextjs , tailwind css (styling) and framer-motion (for animation).
 
-Used Technology
-
-- NextJs
-- TailwindCSS
-- Framer-motion
-
-First, run the development server:
-
+# ⛏️ Installation
+To follow along the tutorial. Change to the starter branch  after cloning the repo.
+Then install the npm packages & run
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install && npm run dev
 ```
+
+
+## 🔓 Stack
+- Typescript
+- Shadcn
+- Tailwind
+- Framer Motion
+
+- ## 🔓 Benefits
+- Mobile Responsiveness
+
+## Author
+Built with love ❤️ by Ntokozo Gumede
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
